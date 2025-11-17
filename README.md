@@ -87,7 +87,7 @@ Sections:
 - An Apple Watch running a recent version of watchOS that supports:
   - `AVAudioEngine`
   - `AVAudioSession` / `AVAudioApplication` record permissions
-- A physical Apple Watch is recommended for real-world testing (pitch detection from the simulator is limited).
+- A physical Apple Watch is recommended for real-world testing (pitch detection from the simulator is not available).
 
 ---
 
